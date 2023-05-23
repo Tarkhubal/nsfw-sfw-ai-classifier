@@ -158,3 +158,21 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+# Custom
+ripme.jar
+ripme.log
+ripme.log.1
+page.html
+gore-downloader.py
+test_download
+sorting
+rips
+downloader_gore
+.vscode
+pages
+train/dataset/nsfw/*
+train/dataset/sfw/*
+datasets-or-files
+extraction

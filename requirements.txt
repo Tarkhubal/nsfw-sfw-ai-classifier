@@ -1,0 +1,5 @@
+tensorflow
+tensorflow[keras]
+numpy
+pillow
+opencv-python
