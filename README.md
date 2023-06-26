@@ -48,7 +48,7 @@ You MUST credit me if you use this project in your own project !
 
 ## Contributing
 
-You can contribute to this project by creating a zip file with the images you want to train with and send it to me on Discord (Un Thomas Sauvage !!#1309) or [by email](mailto:thb5309@gmail.com). You can also create a zip file dans make a pull request with a link to your file in the description !
+You can contribute to this project by creating a zip file with the images you want to train with and send it to me on Discord (@awildthomas) or [by email](mailto:thb5309@gmail.com). You can also create a zip file dans make a pull request with a link to your file in the description !
 
 All images are welcome !
 
