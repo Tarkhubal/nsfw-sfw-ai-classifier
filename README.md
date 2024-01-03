@@ -79,7 +79,7 @@ Thanks to:
 
 | Version        | Release date | Number of images | Is available |
 | :---           |    :----:    |      :----:      |    :----:    |
-| v3 (Neogix)    | xx/xx/2023   | ~400 000         | No           |
+| v3 (Neogix)    | xx/01/2024   | ~400 000         | No           |
 | v2 (Oxynax)    | 20/05/2023   | 271 299          | Yes          |
 | v1 (The first) | 15/05/2023   | ~2 400           | No (deleted) |
 
@@ -92,7 +92,7 @@ Thanks to:
 Image classification :
 
   1. The result of the classification will appear only in the console
-  2. Added a program to check files from the `train/dataset/*` folder to delete non-usables images (not images, corrupted images, too small etc.). THIS SCRIPT DELETE THE NOT-COMPATIBLE FILES, BE CAREFUL !
+  2. Added a program to check files from the `train/dataset/*` folder to delete non-usables images (not images, corrupted images, too small etc.). THIS SCRIPT **DELETE** THE NOT-COMPATIBLE FILES, BE CAREFUL !
 
 **Version 1.1 (in coming)** :
 
