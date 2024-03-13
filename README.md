@@ -79,7 +79,7 @@ Thanks to:
 
 | Version        | Release date | Number of images | Is available |
 | :---           |    :----:    |      :----:      |    :----:    |
-| v3 (Neogix)    | xx/01/2024   | ~400 000         | No           |
+| v3 (Neogix)    | xx/xx/2024   | ~400 000         | No           |
 | v2 (Oxynax)    | 20/05/2023   | 271 299          | Yes          |
 | v1 (The first) | 15/05/2023   | ~2 400           | No (deleted) |
 
